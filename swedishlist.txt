@@ -3,4 +3,4 @@
 # Description: Started
 # Platform notes: This list version is intended for those who use AdGuard Home.
 ||102.112.2o7.net^
-||5e529.v.fwmrm.net^
+||adclick.g.doubleclick.net^
